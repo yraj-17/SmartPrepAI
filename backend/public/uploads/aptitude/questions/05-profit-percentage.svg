@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<rect width="1200" height="760" fill="#ffffff"/>
+<rect x="42" y="42" width="1116" height="676" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+<rect x="42" y="42" width="1116" height="72" rx="18" fill="#0f766e"/>
+<text x="70" y="90" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#ffffff">Profit Percentage</text>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="70" y="132" font-size="28" font-weight="700" fill="#172033">A product is bought for Rs.1000 and sold for Rs.1200.</text>
+<text x="70" y="190" font-size="28" font-weight="500" fill="#172033">Find the profit percentage.</text>
+<text x="70" y="248" font-size="26" font-weight="500" fill="#172033">A. 10%</text>
+<text x="70" y="306" font-size="26" font-weight="500" fill="#172033">B. 15%</text>
+<text x="70" y="364" font-size="26" font-weight="500" fill="#172033">C. 20%</text>
+<text x="70" y="422" font-size="26" font-weight="500" fill="#172033">D. 25%</text>
+</g>
+</svg>

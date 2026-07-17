@@ -1,0 +1,115 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+dist/
+build/
+out/
+.next/
+.nuxt/
+.output/
+frontend/dist/
+backend/dist/
+
+# Environment files - never commit real secrets
+.env
+.env.*
+backend/.env
+backend/.env.*
+frontend/.env
+frontend/.env.*
+ai-server/.env
+ai-server/.env.*
+!.env.example
+!backend/.env.example
+!frontend/.env.example
+!ai-server/.env.example
+
+# Logs
+logs/
+backend/logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Runtime / OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/settings.json
+.vscode/launch.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# TypeScript
+*.tsbuildinfo
+
+# Testing
+coverage/
+.nyc_output/
+
+# Uploads / local file storage
+backend/uploads/
+backend/public/uploads/*
+!backend/public/uploads/aptitude/
+!backend/public/uploads/aptitude/questions/
+!backend/public/uploads/aptitude/questions/*.svg
+ai-server/temp/
+ai-server/models/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+*.egg-info/
+.eggs/
+
+# Docker / local compose overrides
+docker-compose.override.yml
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# Misc secrets / temporary files
+*.pem
+*.key
+*.cert
+.cache/
+tmp/
+temp/

@@ -1,0 +1,16 @@
+{
+  "name": "smartprepai-final-project",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Integrated AI interview, coding challenge, and image-based aptitude test platform.",
+  "scripts": {
+    "install:frontend": "npm --prefix frontend install",
+    "install:backend": "npm --prefix backend install",
+    "install:all": "npm --prefix frontend install && npm --prefix backend install",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "dev:backend": "npm --prefix backend run dev",
+    "build:frontend": "npm --prefix frontend run build",
+    "build:backend": "npm --prefix backend run build",
+    "build:all": "npm --prefix backend run build && npm --prefix frontend run build"
+  }
+}

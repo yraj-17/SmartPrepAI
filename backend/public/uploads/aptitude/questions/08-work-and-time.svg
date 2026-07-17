@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<rect width="1200" height="760" fill="#ffffff"/>
+<rect x="42" y="42" width="1116" height="676" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+<rect x="42" y="42" width="1116" height="72" rx="18" fill="#0f766e"/>
+<text x="70" y="90" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#ffffff">Work and Time</text>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="70" y="132" font-size="28" font-weight="700" fill="#172033">A can finish a work in 12 days and B in 18 days.</text>
+<text x="70" y="190" font-size="28" font-weight="500" fill="#172033">How many days will they take together?</text>
+<text x="70" y="248" font-size="26" font-weight="500" fill="#172033">A. 7.2 days</text>
+<text x="70" y="306" font-size="26" font-weight="500" fill="#172033">B. 8 days</text>
+<text x="70" y="364" font-size="26" font-weight="500" fill="#172033">C. 9 days</text>
+<text x="70" y="422" font-size="26" font-weight="500" fill="#172033">D. 10 days</text>
+</g>
+</svg>

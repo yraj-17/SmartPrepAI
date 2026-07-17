@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<rect width="1200" height="760" fill="#ffffff"/>
+<rect x="42" y="42" width="1116" height="676" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+<rect x="42" y="42" width="1116" height="72" rx="18" fill="#0f766e"/>
+<text x="70" y="90" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#ffffff">Grammar Usage</text>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="70" y="132" font-size="28" font-weight="700" fill="#172033">Choose the grammatically correct option.</text>
+<text x="70" y="190" font-size="28" font-weight="500" fill="#172033">A. He neither likes tea or coffee.</text>
+<text x="70" y="248" font-size="26" font-weight="500" fill="#172033">B. He likes neither tea nor coffee.</text>
+<text x="70" y="306" font-size="26" font-weight="500" fill="#172033">C. He neither like tea nor coffee.</text>
+<text x="70" y="364" font-size="26" font-weight="500" fill="#172033">D. He likes either tea nor coffee.</text>
+</g>
+</svg>

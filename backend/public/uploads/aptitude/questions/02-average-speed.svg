@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<rect width="1200" height="760" fill="#ffffff"/>
+<rect x="42" y="42" width="1116" height="676" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+<rect x="42" y="42" width="1116" height="72" rx="18" fill="#0f766e"/>
+<text x="70" y="90" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#ffffff">Average Speed</text>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="70" y="132" font-size="28" font-weight="700" fill="#172033">A car covers 180 km in 3 hours.</text>
+<text x="70" y="190" font-size="28" font-weight="500" fill="#172033">What is its average speed?</text>
+<text x="70" y="248" font-size="26" font-weight="500" fill="#172033">A. 45 km/h</text>
+<text x="70" y="306" font-size="26" font-weight="500" fill="#172033">B. 50 km/h</text>
+<text x="70" y="364" font-size="26" font-weight="500" fill="#172033">C. 60 km/h</text>
+<text x="70" y="422" font-size="26" font-weight="500" fill="#172033">D. 75 km/h</text>
+</g>
+</svg>
